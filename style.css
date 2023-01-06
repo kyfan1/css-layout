@@ -1,0 +1,88 @@
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+    margin: 30px;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+    color: rgb(162, 240, 240);
+}
+H1{
+    display: flex;
+    justify-content: space-evenly;
+    color: rgb(162, 240, 240);
+}
+.parag{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.parag > p{
+    margin: 50px;
+
+}
+
+img{
+    margin-left: 60px;
+
+}
+h2{
+    display: flex;
+    
+}
+.parag{
+    display: flex;
+  
+}
+.parag > p2{
+    margin: 50px;
+
+}
+form{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 70px;
+}
+.nav-liste{
+    list-style: none;
+}
+.nav-liste  > li> a {
+text-decoration: none;
+color: rgb(114, 124, 124);
+}
+.nav-liste  > li> a:hover {
+color: rgb(18, 174, 185);
+    }
+
+    .box1{
+        background-color: rgb(45, 173, 150);
+        width: 310px;
+        height: 345px;
+        border-radius: 20px;
+    }
+    .box2{
+        background-color: rgb(34, 87, 122);
+        width: 310px;
+        height: 345;
+        border-radius: 20px;
+        
+    }
+    .box3{
+        background-color: rgb(39, 51, 59);
+        width: 310px;
+        height: 345;
+        border-radius: 20px;
+    }
+    .box{
+        display: flex;
+        justify-content: space-around;
+    
+    }
+.box-mere{
+    display: flex;
+    justify-content: space-around;
+}
+    
